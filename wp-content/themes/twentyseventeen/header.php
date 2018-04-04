@@ -35,7 +35,7 @@
 					<span style="font-weight: bold;">SAY YES MEDIA</span>
 				</div>
 				<div class="custom-font" style="text-align: center;">
-					<span>Hotline : Mr. Chung &nbsp;&nbsp;</span>
+					<span>Hotline : Mr. Chương &nbsp;&nbsp;</span>
 					<span><a class="break-line" style="text-decoration:none;color:black;" href="tel:0918512721">0918 512 721</a></span>
 				</div>
 				<?php echo do_shortcode('[metaslider id="22"]'); ?>
